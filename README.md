@@ -29,9 +29,7 @@
 
 
 <p align="center">
- <img style="
-    width: 99px;
-" src="https://s1.imagehub.cc/images/2021/06/29/ezgif.com-gif-maker-10444ce63768eb8f0e.gif">
+ <img  src="https://s1.imagehub.cc/images/2021/06/29/ezgif.com-gif-maker-10444ce63768eb8f0e.gif">
 </p>
 
 
